@@ -22,3 +22,4 @@
 	- CVに直すならUU（n）をかけるだけ
 
 - git commit --amend
+- コンフリクト
